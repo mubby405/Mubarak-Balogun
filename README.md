@@ -1,5 +1,5 @@
 # Mubarak-Balogun
-my name is balogun mubarak
+My name is balogun mubarak
 I graduated from university of ilorin, kwara state Nigeria.
 I studied computer science and education
 I have Good knowledge of Business Intelligence Tools such as Tableau, and Microsoft Power BI.
