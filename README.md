@@ -6,6 +6,7 @@ I have Good knowledge of Business Intelligence Tools such as Tableau, and Micros
 I am Proficient in using UI/UX tools such as Figma and visily .
 I have Good Knowledge of Application Environment such as  SQL Developer, MariaDB and super set.
 I have Good knowledge of Business Environment, Statistics and Statistical Packages such as Microsoft Excel.
+The following are links to some of my designs;
 https://public.tableau.com/views/firstdashboard_16905453544930/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
